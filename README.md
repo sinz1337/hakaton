@@ -4,10 +4,10 @@
 
 ![Static Badge](https://img.shields.io/badge/sins-gray?logo=telegram&link=https%3A%2F%2Ft.me%2Fsinzbtw)      ![Static Badge](https://img.shields.io/badge/word.exe-gray?logo=telegram&link=https%3A%2F%2Ft.me%2Fluaenjoyer)
 
-*** SINZ ***
+***SINZ***
 fakecrime.bio/sinz
 
-*** word ***
+***WORD***
 fakecrime.bio/word
 
 > *just make view that u r better than we*
