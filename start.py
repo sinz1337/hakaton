@@ -9,7 +9,7 @@ def run_main(script_name):
         process = subprocess.Popen([python, script_name])
         process.wait()
         time.sleep(1)
-        print(f'{Fore.YELLOW}> [DEBUG] < :{Style.RESET_ALL} Module loaded successfully. Ending start process...')
+        print(f'{Fore.YELLOW}> [DEBUG] < :{Style.RESET_ALL} Main module loaded successfully. Restarting module...')
 
 if os.system('python3 --version') > 0:
     if os.system('py --version') > 0:
