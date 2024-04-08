@@ -20,7 +20,7 @@ else:
     python = 'python3'
 
 try:
-    print('> [DEBUG] < : Verifying all libraries is installed...')
+    print('> [DEBUG] < : Verifying style libraries is installed...')
     from colorama import Fore, Style
 except ImportError:
     print('[FALATALL ERROR] one or more libraries are not installed. Try pip install -r requirements.txt')
@@ -29,6 +29,15 @@ finally:
     print('> [DEBUG] < : Importing modules...')
 
 try:
+    print(f'{Fore.YELLOW} > [DEBUG] < : {Style.RESET_ALL} Verifying important libraries is installed..')
+    import keyboards, config
+except ImportError:
+    print(f'{Fore.RED} > [FALATALL ERROR] < : {Style.RESET_ALL} one or more libraries are not installed. Try pip install -r requirements.txt')
+finally:
+    print(f'{Fore.YELLOW} > [DEBUG] < : {Style.RESET_ALL} All good!')
+
+try:
+    print(f'{Fore.YELLOW} > [DEBUG < : {Style.RESET_ALL} Importing main modules...')
     import main
 except ImportError:
     print(f'{Fore.RED}[FALATALL ERROR]{Style.RESET_ALL} unable to import one of modules! Check debug for more information.')
