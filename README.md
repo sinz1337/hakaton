@@ -4,6 +4,5 @@
 
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&link=https%3A%2F%2Ft.me%2Fsinzbtw)      ![Static Badge](https://img.shields.io/badge/Telegram-blue?link=https%3A%2F%2Ft.me%2Fluaenjoyer)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?link=https%3A%2F%2Ft.me%2Fluaenjoyer">
 
 > *just make view that u r better than we*
